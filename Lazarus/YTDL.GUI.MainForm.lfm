@@ -1,0 +1,8 @@
+object YTDLMainForm: TYTDLMainForm
+  Left = 710
+  Height = 240
+  Top = 184
+  Width = 320
+  Caption = 'YouTube-dl GUI'
+  LCLVersion = '1.5'
+end

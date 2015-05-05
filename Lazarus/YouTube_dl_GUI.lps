@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="YouTube_dl_GUI.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="52" Y="17"/>
+        <UsageCount Value="25"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="YTDL.GUI.MainForm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="YTDLMainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="YTDL.GUI.MainForm"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="92" Y="8"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\Source\YTDL.Optset.Main.pas"/>
+        <UnitName Value="YTDL.Optset.Main"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="19"/>
+        <UsageCount Value="20"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\Source\YTDL.Runner.Config.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="YTDL.Runner.Config"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit3>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+  </ProjectSession>
+</CONFIG>
