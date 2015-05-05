@@ -9,6 +9,9 @@ The GUI generates correctly-formatted Terminal instructions for the YouTube-dl p
 
 YouTube-dl-GUI also makes it easier to enqueue multiple YouTube videos (*not contained within a Playlist*) for download, and even to enqueue multiple Playlists for download.
 
+##Current Status
+This project has only just begun, and no usable code has yet been committed. Please *Watch* this project to be notified as soon as the first usable files are made available.
+
 ##Disclaimer
 This utility does not itself interact with YouTube in any way, nor does it provide any means to circumvent any applicable copy protection systems employed by YouTube. Indeed, this utility does not even communicate over a network.
 
