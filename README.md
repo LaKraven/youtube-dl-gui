@@ -3,7 +3,7 @@ A GUI utility for [Youtube-DL](https://github.com/rg3/youtube-dl)
 
 This utility simplifies the use of *Youtube-DL*, making it easier to download individual YouTube videos and entire playlists.
 
-It is written in Pascal and can be compiled in either [Delphi](http://www.embarcadero.com/products/delphi) or [FreePascal/Lazarus](http://www.freepascal.org/).
+It is written in Pascal and can be compiled using [FreePascal](http://www.freepascal.org/), and edited using [Lazarus](http://www.lazarus-ide.org/).
 
 The GUI generates correctly-formatted Terminal instructions for the YouTube-dl process based on your GUI changes, then executes YouTube-dl accordingly. This means you don't have to memorize all of the various parameters and options.
 
